@@ -1,7 +1,7 @@
 import React from 'react';
-import 'antd/dist/antd.css';
 import { Row, Col } from 'antd';
 import { Menu, Icon } from 'antd';
+import 'antd/dist/antd.css';
 import reactNewsIcon from '../images/if_news_37113.png';
 import pccss from '../css/pc/pc.css';
 const SubMenu = Menu.SubMenu;
